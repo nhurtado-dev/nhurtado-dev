@@ -1,4 +1,4 @@
-# 👨‍💻  Naim Hurtado
+# 👨‍💻  ¡Hola! Soy Naim Hurtado.
 
 **`Programador Junior`**
 

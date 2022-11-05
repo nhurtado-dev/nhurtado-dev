@@ -1,4 +1,4 @@
-# 👨‍💻  ¡Hola! Soy Naim Hurtado.
+# 👨‍💻  ¡Hola! Mi nombre es Naim Hurtado.
 
 **`Programador Junior`**
 

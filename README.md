@@ -1,4 +1,4 @@
-# 🏄‍♂️ Naim Hurtado
+# 👨‍💻  Naim Hurtado
 
 **`Programador Junior`**
 
@@ -27,4 +27,5 @@ Egresado de la carrera de Computación e Informática en Cibertec. Soy una perso
 
 ### 📊 Stats
 
-![Impalatore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=impalatore&show_icons=true&theme=gruvbox)                ![Impalatore's GitHub Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=impalatore&layout=compact&theme=gruvbox&hide=css,javascript)
+<img height="50%" width="auto" src = "https://github-readme-stats.vercel.app/api?username=impalatore&show_icons=true&theme=gruvbox">
+<img height="50%" width="auto" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=impalatore&layout=compact&theme=gruvbox&hide=css,javascript">

@@ -2,8 +2,7 @@
 
 **`Programador Junior`**
 
-Egresado de la carrera de Computación e Informática en Cibertec. Soy una persona entusiasta, autodidacta y adaptable. Poseo una actitud positiva y cuento con disposición y motivación para aprender nuevos programas y lenguajes. Tengo interés en desarrollarme en áreas de Diseño y Desarrollo Web/Sistemas, creación de e-Commerce, etc.
-
+Egresado de la carrera de Computación e Informática en Cibertec. Soy una persona entusiasta, autodidacta y adaptable. Poseo una actitud positiva y cuento con disposición y motivación para aprender nuevos programas y lenguajes.
 ---
 
 ### 🧰 Lenguajes y Herramientas

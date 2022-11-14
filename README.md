@@ -2,7 +2,8 @@
 
 **`Programador Junior`**
 
-Egresado de la carrera de Computación e Informática en Cibertec. Soy una persona entusiasta, autodidacta y adaptable. Poseo una actitud positiva y cuento con disposición y motivación para aprender nuevos programas y lenguajes.
+Egresado de la carrera de Computación e Informática en Cibertec.
+Soy una persona positiva, entusiasta, autodidacta y adaptable.
 ---
 
 ### 🧰 Lenguajes y Herramientas
@@ -29,7 +30,3 @@ Egresado de la carrera de Computación e Informática en Cibertec. Soy una perso
 
 ![Impalatore's Github Stats](https://github-readme-stats.vercel.app/api?username=impalatore&show_icons=true&theme=gruvbox&bg_color=00000000)
 ![Impalatore's Github Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=impalatore&layout=compact&theme=gruvbox&bg_color=00000000)
-
-#
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22afucyimaxx5bxecuypj7k4q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)

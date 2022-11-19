@@ -2,7 +2,7 @@
 
 **`Programador Junior`**
 
-Egresado de la carrera de Computación e Informática en Cibertec.
+Egresado de la carrera de Computación e Informática en Cibertec.\
 Soy una persona positiva, entusiasta, autodidacta y adaptable.
 ---
 

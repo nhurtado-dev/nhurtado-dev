@@ -2,8 +2,7 @@
 
 **`Programador Junior`**
 
-Egresado de la carrera de Computación e Informática en Cibertec.\
-Soy una persona positiva, entusiasta, autodidacta y adaptable.
+¡Bienvenido a mi GitHub! Soy egresado de la carrera de Computación e Informática en Cibertec, me considero una persona positiva, entusiasta, autodidacta y adaptable.
 ---
 
 ### 🧰 Lenguajes y Herramientas

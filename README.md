@@ -27,5 +27,5 @@
 
 ### 📊 Stats
 
-![Impalatore's Github Stats](https://github-readme-stats.vercel.app/api?username=impalatore&show_icons=true&theme=gruvbox&bg_color=00000000)
-![Impalatore's Github Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=impalatore&layout=compact&theme=gruvbox&bg_color=00000000&hide=css,html)
+![Impalatore's Github Stats](https://github-readme-stats.vercel.app/api?username=nhurtado-dev&show_icons=true&theme=gruvbox&bg_color=00000000)
+![Impalatore's Github Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=nhurtado-dev&layout=compact&theme=gruvbox&bg_color=00000000&hide=css,html)
